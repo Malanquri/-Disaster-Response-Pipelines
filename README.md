@@ -1,5 +1,9 @@
 # Disaster Response Pipeline Project
 
+### Summary
+Project 6 of Udacity's Data Science Nanodegree. The Disaster Response Pipeline Project aims to built on the data engineering skills and expand the opportunities and potential as a data scientist.
+
+
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
@@ -12,3 +16,16 @@
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
+
+
+### Screenshots
+
+<img src='screenshots/33.PNG' width="500" height="500" />
+<br>
+
+<img src='screenshots/11.PNG' width="500" height="500" />
+<br>
+
+<img src='screenshots/22.PNG' width="500" height="500" />
+<br>
